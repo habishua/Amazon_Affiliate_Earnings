@@ -7,7 +7,6 @@ This project analyzes the associates' behaviors in order to understand how to in
 ## Insights and Recommendations
 
 The tables of the database were connected as such:
-
 <img width="4608" height="3456" alt="Image" src="https://github.com/user-attachments/assets/e4bc992d-a109-4fa2-9f27-afa028ab0bd1" />
 
 The relevant SQL queries are to be found [here](https://github.com/habishua/Amazon_Affiliate_Earnings/tree/db866965a5f460a532a8ffec56b10bdd65916078/amazon_affiliate_code).
@@ -15,8 +14,7 @@ The relevant SQL queries are to be found [here](https://github.com/habishua/Amaz
 ### Affiliate Fee Structure
 
 - Although the data only covers a little over a week, it has shown that a tiered affiliate fee structure tend to bring more commission than a fixed commission structure.
-
-  ------line graph------
+<img width="765" height="479" alt="Image" src="https://github.com/user-attachments/assets/abd5da89-a1b3-4b73-bcd0-e8053b011fc4" />
 
 ### Product Category and Colors
 
