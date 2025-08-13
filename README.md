@@ -1,3 +1,34 @@
 # Amazon Affiliate Program 
 
-Also known as the Amazon Associates program, Amazon gives the opportunities to individuals to earn commissions by promoting Amazon Product. 
+Also known as the Amazon Associates program, Amazon gives the opportunities to individuals to earn commissions by promoting Amazon products. 
+
+This project analyzes the associates' behaviors in order to understand how to increase their earnings. 
+
+## Insights and Recommendations
+
+The data analyzed came from four files connected as such:
+
+---tables relationnel------
+
+The relevant SQL queries are to be found here. -----hyperlink------
+
+### Affiliate Fee Structure
+
+- Although the data only covers a little over a week, it has shown that a tiered affiliate fee structure tend to bring more commission than a fixed commission structure.
+
+  ------line graph------
+
+### Product Category and Colors
+
+- When analyzing the most baught products, we can see that electronics are the most popular throughout the year.
+- Whitout a shock, home and garden products reach a peak during the spring cleaning season.
+- In addition, the saying "new year, new me" can be seen on the bar chart below since health and fitness products bring a good amount of commission during the new year.
+- With food being a basic necessity and a passion for many, it must not be a shock that kitchen supplies are bought quite often.
+----------categroy and season bar chart--------
+  
+- Finally, customers tend to buy pretty neutral colors, with black being the most popular one.
+- As an associate, it is important to note the most popular category and colors bought according to different seasonal trend.
+
+  --------color table 15-----
+  ------color bar chart 5-------
+
