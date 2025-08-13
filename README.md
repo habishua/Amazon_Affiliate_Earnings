@@ -29,5 +29,5 @@ The relevant SQL queries are to be found [here](https://github.com/habishua/Amaz
 <img width="4608" height="3456" alt="Image" src="https://github.com/user-attachments/assets/dc63c353-4830-4707-a538-429bb91f012c" />
 
 - Among all the colors shown on the table above, customers tend to buy pretty neutral colors, with black being the most popular one.
-<img width="889" height="689" alt="Image" src="https://github.com/user-attachments/assets/b371ca63-ee5b-409c-aa75-41e8ba0d4cee" />
+<img width="889" height="689" alt="Image" src="https://github.com/user-attachments/assets/0f4d1ab4-6754-42e2-8238-1c507277ce54" />
 
