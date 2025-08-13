@@ -14,7 +14,9 @@ The relevant SQL queries used for the analysis can be found [here](https://githu
 ### Affiliate Fee Structure
 
 - Even though the data only covers a little over a week, it shows that a tiered affiliate fee structure tends to generate more commission than a fixed commission structure.
+<p align="center">
 <img width="650" height="500" alt="Image" src="https://github.com/user-attachments/assets/abd5da89-a1b3-4b73-bcd0-e8053b011fc4" />
+</p>
 
 ### Product Category and Colors
 
@@ -25,7 +27,9 @@ The relevant SQL queries used for the analysis can be found [here](https://githu
 
 - As an associate, it is important to note the most popular categories and colors according to seasonal trends.
 - Here is a summary of the colors found in the database:
+<p style="margin-top:-10px;">
 <img width="650" height="450" alt="Image" src="https://github.com/user-attachments/assets/dc63c353-4830-4707-a538-429bb91f012c" />
+</p>
 
 - Among all the colors, customers tend to buy neutral shades, with black being the most popular.
 <img width="700" height="500" alt="Image" src="https://github.com/user-attachments/assets/0f4d1ab4-6754-42e2-8238-1c507277ce54" />
