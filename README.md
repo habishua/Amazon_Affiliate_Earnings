@@ -32,7 +32,9 @@ The relevant SQL queries used for the analysis can be found [here](https://githu
 As an associate, it is important to note not only the most popular categories according to seasonal trends, but also the colors.
 
 Here is a summary of the colors found in the database:
-![Image](https://github.com/user-attachments/assets/170d68f4-130b-4339-acaf-b484e40f2179)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/170d68f4-130b-4339-acaf-b484e40f2179" width="400">
+</p>
 
 Among all the colors, customers tend to buy neutral shades, with black being the most popular.
 <p align="center">
