@@ -25,8 +25,7 @@ The relevant SQL queries are to be found [here](https://github.com/habishua/Amaz
 <img width="1491" height="690" alt="Image" src="https://github.com/user-attachments/assets/853c8f1e-30be-46c3-ab64-d13f7a58cd4d" />
 
 - As an associate, it is important to note the most popular category and colors bought according to different seasonal trend.
-- Here is a table of the colors found in the database :
-<img width="650" height="500" alt="Image" src="https://github.com/user-attachments/assets/dc63c353-4830-4707-a538-429bb91f012c" />
+- Here is a table of the colors found in the database : <img width="650" height="500" alt="Image" src="https://github.com/user-attachments/assets/dc63c353-4830-4707-a538-429bb91f012c" />
 
 - Among all the colors shown on the table above, customers tend to buy pretty neutral colors, with black being the most popular one.
 <img width="889" height="689" alt="Image" src="https://github.com/user-attachments/assets/0f4d1ab4-6754-42e2-8238-1c507277ce54" />
