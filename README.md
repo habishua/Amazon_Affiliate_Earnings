@@ -22,12 +22,11 @@ The relevant SQL queries are to be found [here](https://github.com/habishua/Amaz
 - Whitout a shock, home and garden products reach a peak during the spring cleaning season.
 - In addition, the saying "new year, new me" can be seen on the bar chart below since health and fitness products bring a good amount of commission during the new year.
 - With food being a basic necessity and a passion for many, it must not be a shock that kitchen supplies are bought quite often.
-<img width="4608" height="3456" alt="Image" src="https://github.com/user-attachments/assets/dc63c353-4830-4707-a538-429bb91f012c" />
-  
+
 
 - As an associate, it is important to note the most popular category and colors bought according to different seasonal trend.
 - Here is a table of the colors found in the database :
-<img width="1608" height="456" alt="Image" src="https://github.com/user-attachments/assets/1f481809-c5ca-4ae3-b5a5-65f0d1abdede" />
+<img width="4608" height="3456" alt="Image" src="https://github.com/user-attachments/assets/dc63c353-4830-4707-a538-429bb91f012c" />
 
 - Among all the colors shown on the table above, customers tend to buy pretty neutral colors, with black being the most popular one.
 <img width="889" height="689" alt="Image" src="https://github.com/user-attachments/assets/b371ca63-ee5b-409c-aa75-41e8ba0d4cee" />
