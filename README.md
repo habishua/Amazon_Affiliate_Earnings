@@ -14,7 +14,7 @@ The relevant SQL queries are to be found [here](https://github.com/habishua/Amaz
 ### Affiliate Fee Structure
 
 - Although the data only covers a little over a week, it has shown that a tiered affiliate fee structure tend to bring more commission than a fixed commission structure.
-<img width="765" height="479" alt="Image" src="https://github.com/user-attachments/assets/abd5da89-a1b3-4b73-bcd0-e8053b011fc4" />
+<img width="650" height="500" alt="Image" src="https://github.com/user-attachments/assets/abd5da89-a1b3-4b73-bcd0-e8053b011fc4" />
 
 ### Product Category and Colors
 
