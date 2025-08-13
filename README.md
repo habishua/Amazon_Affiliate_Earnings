@@ -7,7 +7,7 @@ This project analyzes the associates' behaviors in order to understand how to in
 ## Insights and Recommendations
 
 The tables of the database were connected as such:
-<img width="500" height="250" alt="Image" src="https://github.com/user-attachments/assets/e4bc992d-a109-4fa2-9f27-afa028ab0bd1" />
+<img width="700" height="500" alt="Image" src="https://github.com/user-attachments/assets/e4bc992d-a109-4fa2-9f27-afa028ab0bd1" />
 
 The relevant SQL queries are to be found [here](https://github.com/habishua/Amazon_Affiliate_Earnings/tree/db866965a5f460a532a8ffec56b10bdd65916078/amazon_affiliate_code).
 
