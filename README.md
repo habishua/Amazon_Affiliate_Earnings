@@ -27,8 +27,9 @@ The relevant SQL queries used for the analysis can be found [here](https://githu
 - Kitchen supplies are frequently purchased, which makes sense as food is a basic necessity and a common passion.
 <img width="1491" height="690" alt="Image" src="https://github.com/user-attachments/assets/853c8f1e-30be-46c3-ab64-d13f7a58cd4d" />
 
-- As an associate, it is important to note the most popular categories and colors according to seasonal trends.
-- Here is a summary of the colors found in the database:
+As an associate, it is important to note the most popular categories and colors according to seasonal trends.
+
+Here is a summary of the colors found in the database:
 <p align="center" style="margin-top:-10px; margin-bottom:-10px;">
   <img width="4608" height="3456" alt="Image" src="https://github.com/user-attachments/assets/a5e38d07-6d7f-42a0-b765-739ea90bb7b8" />
 </p>
