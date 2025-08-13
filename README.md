@@ -8,7 +8,7 @@ This project analyzes the associates' behaviors in order to understand how to in
 
 The data analyzed came from four files connected as such:
 
----tables relationnel------
+<img width="4608" height="3456" alt="Image" src="https://github.com/user-attachments/assets/e4bc992d-a109-4fa2-9f27-afa028ab0bd1" />
 
 The relevant SQL queries are to be found here. -----hyperlink------
 
