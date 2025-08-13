@@ -20,14 +20,16 @@ The relevant SQL queries used for the analysis can be found [here](https://githu
 <img width="650" height="500" alt="Image" src="https://github.com/user-attachments/assets/abd5da89-a1b3-4b73-bcd0-e8053b011fc4" />
 </p>
 
-### Product Category and Colors
+### Product Category 
 
 - When analyzing the most purchased products, electronics are consistently the most popular throughout the year.
 - As expected, home and garden products peak during the spring cleaning season. Similarly, health and fitness products perform well around the new year, reflecting the “new year, new me” trend.
 - Kitchen supplies are frequently purchased, which makes sense as food is a basic necessity and a common passion.
 <img width="1491" height="690" alt="Image" src="https://github.com/user-attachments/assets/853c8f1e-30be-46c3-ab64-d13f7a58cd4d" />
 
-As an associate, it is important to note the most popular categories and colors according to seasonal trends.
+### Product Colors
+
+As an associate, it is important to note not only the most popular categories according to seasonal trends, but also the colors.
 
 Here is a summary of the colors found in the database:
 <img width="4608" height="3456" alt="Image" src="https://github.com/user-attachments/assets/a5e38d07-6d7f-42a0-b765-739ea90bb7b8" />
