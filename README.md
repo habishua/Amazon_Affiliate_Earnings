@@ -25,7 +25,7 @@ The relevant SQL queries used for the analysis can be found [here](https://githu
 ### Product Categories 
 - Electronics and Kitchen generated the highest total commissions, earning $237.44 and $245.68 respectively, with Electronics averaging $39.57 per season and Kitchen $49.14.
 - Health & Fitness and Home & Garden also performed well seasonally, peaking at $54.44 and $101.75 in single seasons.
-- Smaller categories like Clothing, Shoes, and Sports & Outdoors contributed minimally to overall earnings.
+- Smaller categories like Clothing and Shoes contributed minimally to overall earnings.
 <p align="center">
   <img width="1491" height="690" alt="Image" src="https://github.com/user-attachments/assets/853c8f1e-30be-46c3-ab64-d13f7a58cd4d" />
 </p>
