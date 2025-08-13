@@ -24,9 +24,11 @@ The relevant SQL queries are to be found [here](https://github.com/habishua/Amaz
 - With food being a basic necessity and a passion for many, it must not be a shock that kitchen supplies are bought quite often.
 <img width="1491" height="690" alt="Image" src="https://github.com/user-attachments/assets/853c8f1e-30be-46c3-ab64-d13f7a58cd4d" />
   
-- Finally, customers tend to buy pretty neutral colors, with black being the most popular one.
-- As an associate, it is important to note the most popular category and colors bought according to different seasonal trend.
 
-  --------color table 15-----
+- As an associate, it is important to note the most popular category and colors bought according to different seasonal trend.
+- Here is a table of the colors found in the database : 
+<img width="4608" height="3456" alt="Image" src="https://github.com/user-attachments/assets/d83017d0-8d66-42e3-880d-ac6f2469f8e4" />
+
+- Among all the colors shown on the table above, customers tend to buy pretty neutral colors, with black being the most popular one.
   ------color bar chart 5-------
 
