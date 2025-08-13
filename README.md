@@ -27,7 +27,7 @@ The relevant SQL queries used for the analysis can be found [here](https://githu
 
 - As an associate, it is important to note the most popular categories and colors according to seasonal trends.
 - Here is a summary of the colors found in the database:
-<p style="margin-top:-10px;">
+<p style="margin-top:-30px;">
 <img width="650" height="450" alt="Image" src="https://github.com/user-attachments/assets/dc63c353-4830-4707-a538-429bb91f012c" />
 </p>
 
