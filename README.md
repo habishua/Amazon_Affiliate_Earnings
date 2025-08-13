@@ -30,5 +30,5 @@ The relevant SQL queries are to be found [here](https://github.com/habishua/Amaz
 <img width="4608" height="3456" alt="Image" src="https://github.com/user-attachments/assets/d83017d0-8d66-42e3-880d-ac6f2469f8e4" />
 
 - Among all the colors shown on the table above, customers tend to buy pretty neutral colors, with black being the most popular one.
-  ------color bar chart 5-------
+<img width="889" height="689" alt="Image" src="https://github.com/user-attachments/assets/b371ca63-ee5b-409c-aa75-41e8ba0d4cee" />
 
