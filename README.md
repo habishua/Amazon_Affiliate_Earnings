@@ -39,7 +39,7 @@ Here is a summary of the colors found in the database:
   <img src="https://github.com/user-attachments/assets/170d68f4-130b-4339-acaf-b484e40f2179" width="200">
 </p>
 
-Among all colors, customers tend to buy neutral shades, with black being the most popular, representing 30.1% of all purchases.
+Among all colors, customers tend to buy neutral shades, with black being the most popular, representing 30.1% of all products.
 <p align="center">
   <img width="700" height="500" alt="Image" src="https://github.com/user-attachments/assets/0f4d1ab4-6754-42e2-8238-1c507277ce54" />
 </p>
